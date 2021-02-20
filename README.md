@@ -1,1 +1,2 @@
-# Moving-and-Fixed-Rectangle
+# collisionAlgorithm
+Algorithm to detect collision between two objects
